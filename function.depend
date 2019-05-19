@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544281318 source:d:\move\kuliah\semester 1\algoritma\belajar\function\main.cpp
+	<iostream>
+
+1546481122 source:d:\rise\kuliah\semester 1\algoritma\belajar\function\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
